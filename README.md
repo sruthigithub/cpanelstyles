@@ -53,7 +53,7 @@
   - Improved Password generator
   - Improved notice styles
 
-# Orange
+# Orange Style
 
 ### Home Page
   - Improved design for sea of icons and a larger select area
@@ -78,7 +78,7 @@
   - Improved Password generator
   - Improved notice styles
   
-# Dark
+# Dark Style
 
 ### Home Page
   - Responsive Home page (Search on top on mobile using CSS flex)
