@@ -3,12 +3,12 @@
 # Sidebar Style
 
 ### Home Page
-  - Ever present sidebar - Feature Navigation avalable for inner pages.
+  - Ever present sidebar - Feature Navigation available for inner pages.
   - Enhancements: Quick search can be used for searching application meta data instead of just features
   - Overlay replaces content for notifications, settings and statistics (Page scrolls when content overflows)
   - Better indicator for notifications if any ( Red bell when there are warnings )
   - Improved design for sea of icons and a larger select area
-  - New home page with Statistics and Favourites
+  - New home page with Statistics and Favorites
   - Responsive Home page
   - Improved header section styles
   - Improved footer section styles
@@ -37,7 +37,7 @@
   - Rearranged sections on the page using CSS flex
   - Improved header section styles
   - Improved footer section styles
-  - Consistent look and feel for all sections in Home page
+  - Consistent look and feel for all sections in home page
   - Changes to user preference dropdown styles
   - Changes to quick search dropdown
   - New CSS3 transitions and animations
@@ -62,7 +62,7 @@
   - Rearranged sections on the page using CSS flex
   - Improved header section styles
   - Improved footer section styles
-  - Consistent look and feel for all sections in Home page
+  - Consistent look and feel for all sections in home page
   - Changes to user preference dropdown styles
   - Changes to quick search dropdown
   - New CSS3 transitions and animations
@@ -85,7 +85,7 @@
   - Rearranged sections on the page using CSS flex
   - Improved header section styles
   - Improved footer section styles
-  - Consistent look and feel for all sections in Home page
+  - Consistent look and feel for all sections in home page
   - Changes to user preference dropdown styles
 
 ### Application Pages - Mailing list (Sample page)
@@ -106,7 +106,7 @@
   - Rearranged sections on the page using CSS flex
   - Improved header section styles
   - Improved footer section styles
-  - Consistent look and feel for all sections in Home page
+  - Consistent look and feel for all sections in home page
   - Changes to user preference dropdown styles
 
 ### Application Pages - Mailing list (Sample page)
